@@ -14,4 +14,70 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Czteromasztowiec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dwumasztowiec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Gracz.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Jednomasztowiec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Operacje.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pieciomasztowiec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Statek.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Trojmasztowiec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Plansza.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Czteromasztowiec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dwumasztowiec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gracz.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Jednomasztowiec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Koordynata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Listy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Operacje.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pieciomasztowiec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Statek.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trojmasztowiec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
